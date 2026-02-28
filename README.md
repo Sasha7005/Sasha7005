@@ -20,15 +20,15 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 ##🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
-
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
 
 ---
 
 ##📫 How to reach me:  
 
-[LinkedIn](www.linkedin.com/in/oleksandrbasarab) | [Telegram](https://t.me/OleksandrBasarab) | [Email](mailto:basarab.o@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/oleksandrbasarab/) | [Telegram](https://t.me/OleksandrBasarab) | [Email](mailto:basarab.o@icloud.com)
 <!--
 **Sasha7005/Sasha7005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
